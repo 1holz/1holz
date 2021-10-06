@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Albert-Einholz
+- ☕ I mainly make Minecraft mods and maybe more in the future
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning more stuff
 - 💞️ I’m looking to collaborate on even more stuff
 - 📫 How to reach me
-  -  just create an issue somewhere asking me to give you a discord invite link
+  -  just ask [here](https://github.com/Albert-Einholz/Albert-Einholz/discussions/categories/general) for whatever you need
