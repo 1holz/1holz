@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Albert-Einholz
 - :octocat: I make these things here:
-  - 🏝️ Minecraft mods
+  - ⛏️ Minecraft mods
 - ⏳ I might make this stuff here in the future:
   - ☕ other Java applications
   - 🐍 Python
