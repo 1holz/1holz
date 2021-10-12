@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @Albert-Einholz
-- ☕ I mainly make Minecraft mods and maybe more in the future
+- :octocat: I make these things here:
+  - 🏝️ Minecraft mods
+- ⏳ I might make this stuff here in the future:
+  - ☕ other Java applications
+  - 🐍 Python
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning more stuff
 - 💞️ I’m looking to collaborate on even more stuff
-- 📫 How to reach me
+- 📫 How to reach me:
   -  just ask [here](https://github.com/Albert-Einholz/Albert-Einholz/discussions/categories/general) for whatever you need
