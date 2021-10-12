@@ -4,7 +4,7 @@
 - ⏳ I might make this stuff here in the future:
   - ☕ other Java applications
   - 🐍 Python
-- 👀 I’m interested in stuff
+- 👀 I’m interested in various stuff
 - 🌱 I’m currently learning more stuff
 - 💞️ I’m looking to collaborate on even more stuff
 - 📫 How to reach me:
