@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Albert-Einholz
+- :wave: Hi, I’m @Albert-Einholz
 - :octocat: I make these things here:
-  - ⛏️ Minecraft mods
-- ⏳ I might make this stuff here in the future:
-  - ☕ other Java applications
-  - 🐍 Python
-- 👀 I’m interested in various stuff
-- 🌱 I’m currently learning more stuff
-- 💞️ I’m looking to collaborate on even more stuff
-- 📫 How to reach me:
+  - :pick: Minecraft mods
+- :hourglass_flowing_sand: I might make this stuff here in the future:
+  - :coffee: other Java applications
+  - :snake: Python
+  - :printer: 3D-Printing (I own a V0 now)
+- :eyes: I’m interested in various stuff
+- :seedling: I’m currently learning more stuff
+- :revolving_hearts: I’m looking to collaborate on even more stuff
+- :mailbox: How to reach me:
   -  just ask [here](https://github.com/Albert-Einholz/Albert-Einholz/discussions/categories/general) for whatever you need
