@@ -1,9 +1,9 @@
 - :wave: Hi, I’m @Albert-Einholz
 - :octocat: I make these things here:
   - :pick: Minecraft mods
+  - :snake: Python
 - :hourglass_flowing_sand: I might make this stuff here in the future:
   - :coffee: other Java applications
-  - :snake: Python
   - :printer: 3D-Printing (I own a V0 now)
 - :eyes: I’m interested in various stuff
 - :seedling: I’m currently learning more stuff
