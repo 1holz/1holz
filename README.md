@@ -4,7 +4,7 @@
   - :snake: Python
 - :hourglass_flowing_sand: I might make this stuff here in the future:
   - :coffee: other Java applications
-  - :printer: 3D-Printing (I own a V0 now)
+  - :printer: 3D-Printing (I own a [V0](https://github.com/VoronDesign/Voron-0) now)
 - :eyes: I’m interested in various stuff
 - :seedling: I’m currently learning more stuff
 - :revolving_hearts: I’m looking to collaborate on even more stuff
