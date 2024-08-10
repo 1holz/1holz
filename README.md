@@ -5,8 +5,3 @@
 - :hourglass_flowing_sand: I might make this stuff here in the future:
   - :coffee: other Java applications
   - :printer: 3D-Printing (I own a [Voron V0.1](https://github.com/VoronDesign/Voron-0) now)
-- :eyes: I’m interested in various stuff
-- :seedling: I’m currently learning more stuff
-- :revolving_hearts: I’m looking to collaborate on even more stuff
-- :mailbox: How to reach me:
-  -  just ask [here](https://discord.gg/VUpY7a7pqF) for whatever you need
