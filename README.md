@@ -1,4 +1,4 @@
-- :wave: Hi, I’m @Albert-Einholz
+- :wave: Hi, I’m @1holz
 - :octocat: I make these things here:
   - :pick: Minecraft mods
   - :snake: Python
